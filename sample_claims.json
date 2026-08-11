@@ -1,0 +1,16 @@
+[
+  {
+    "claim_type": "car accident",
+    "date": "yesterday",
+    "location": "Sandton, Gauteng",
+    "fault": "third-party",
+    "description": "Other driver ran a red light."
+  },
+  {
+    "claim_type": "property damage",
+    "date": "last week",
+    "location": "Cape Town",
+    "fault": "weather",
+    "description": "Roof damaged by hailstorm."
+  }
+]
